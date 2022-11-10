@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+.box1{
+    width: 100rem;
+    height: 40rem;
+    object-fit: cover;
+    background-image: url(/pictures/cricket.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position:center;
+}
+.box2{
+    width: 100rem;
+    height: 10rem;
+    background-color:chocolate;
+}
+.box3{
+    width: 100rem;
+    height: 40rem;
+    object-fit: cover;
+    background-image: url(/pictures/keyboard.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:center;
+}
+.box4{
+    width: 100rem;
+    height: 10rem;
+    background-color:chocolate
+}
+.box5{
+    width: 100rem;
+    height: 40rem;
+    object-fit: cover;
+    background-image: url(/pictures/cr7\(2\).jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position:center;
+}
+.box6{
+    width: 100rem;
+    height: 10rem;
+    background-color:chocolate
+}
+.box7{
+    width: 100rem;
+    height: 40rem;
+    object-fit: cover;
+    background-image: url(/pictures/france-in-pictures-beautiful-places-to-photograph-versailles-gardens.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position:center;
+}
